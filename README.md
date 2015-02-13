@@ -9,7 +9,7 @@ Analyze usage of English in Spanish language women's magazines (and usage of Spa
   * siempremujer.com
   * latina.com
 
-2 Text pre-processing
+2. Text pre-processing
   * convert to plain text
 
 3. Annotate text
