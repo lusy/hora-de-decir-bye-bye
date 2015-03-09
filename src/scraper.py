@@ -67,20 +67,6 @@ def get_article_text(url):
 
 
 
-#get_article_text("http://siempremujer.com/belleza/cabello-ayudar-lucir-delgada/78577/")
-
-#r = requests.get("http://siempremujer.com/belleza/cabello-ayudar-lucir-delgada/78577/").text.encode('UTF-8')
-
-#dom = web.Element(r)
-
-#text = dom.by_class('post-post-entry')
-
-#print text[0]
-
-#print get_categories()
-
-#print get_article_urls('/category/cabello-belleza/')
-
 '''
 main
 '''
