@@ -33,13 +33,7 @@ def cats_to_dict():
             classification[category] = article_ids
             category = ''
 
-
-    # print classification
-    #print ("amor: ", classification["amor"])
-    #print ("musica-cultura: ", classification["musica-cultura"])
-
     class_file.close()
 
     return classification
 
-cats_to_dict()
