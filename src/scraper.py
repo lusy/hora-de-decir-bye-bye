@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import sys
 import requests
 from pattern import web
 
@@ -96,4 +97,6 @@ def main():
     #ff.write(classified_articles)
     #ff.close()
 
-main()
+if __name__ == '__main__':
+    status = main()
+    sys.exit(status)
