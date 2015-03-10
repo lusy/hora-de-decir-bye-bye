@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+from nltk.corpus import PlaintextCorpusReader
+
 def cats_to_dict():
     '''
     converts the list of categories and urls to a dictionary
@@ -36,4 +38,43 @@ def cats_to_dict():
     class_file.close()
 
     return classification
+
+def customize_esp_dicts():
+    '''
+    helper function which constructs a common Spanish dictionary
+    for all LA countries;
+    and specific regional dictionaries for each country;
+    all saved to data/dictionaries-common
+    '''
+
+    dicts_root = 'data/dictionaries-clean'
+    file_pattern = 'es_.*'
+    dicts = PlaintextCorpusReader(dicts_root, file_pattern)
+
+    # compute intersection of all Spanish dictionaries
+    common_dict = set(dicts.words('es_AR'))
+
+    for d in dicts.fileids():
+        common_dict = common_dict.intersection(set(dicts.words(d)))
+
+    # write intersection to file
+    file_common = open('data/dictionaries-common/es_ALL', 'w')
+
+    for item in list(common_dict):
+        file_common.write('%s\n' % item)
+
+    file_common.close()
+
+    # compute regional dictionaries
+    for d in dicts.fileids():
+        print "Computing regional dictionary for %s...." % d
+        regional_dict = set(dicts.words(d)) - common_dict
+        regional_path = 'data/dictionaries-common/%s_reg' % d
+        file_regional = open(regional_path, 'w')
+        regional_sorted = sorted(list(regional_dict))
+
+        for item in regional_sorted:
+            file_regional.write('%s\n' % item)
+
+        file_regional.close()
 
