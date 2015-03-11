@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
-from nltk.corpus import PlaintextCorpusReader
+import os
+import nltk
+from os import path
 
 def cats_to_dict():
     '''
@@ -47,29 +49,55 @@ def customize_esp_dicts():
     all saved to data/dictionaries-common
     '''
 
-    dicts_root = 'data/dictionaries-clean'
-    file_pattern = 'es_.*'
-    dicts = PlaintextCorpusReader(dicts_root, file_pattern)
+    dicts_root = 'data/dictionaries-clean/es/'
 
     # compute intersection of all Spanish dictionaries
-    common_dict = set(dicts.words('es_AR'))
 
-    for d in dicts.fileids():
-        common_dict = common_dict.intersection(set(dicts.words(d)))
+    ## initialize intersection with Argentinian dictionary
+    ar_path = dicts_root + 'es_AR'
+    common_file = open(ar_path, 'r')
+    common_file_read = common_file.read()
+    common_dict = set(nltk.word_tokenize(common_file_read))
+    common_file.close()
 
-    # write intersection to file
+    print "Len(common_dict) init: ", len(common_dict)
+
+    dicts_ids = [f for f in os.listdir(dicts_root) if path.isfile(path.join(dicts_root, f))]
+
+    for dict_id in dicts_ids:
+        dict_path = dicts_root + dict_id
+        dict_file = open(dict_path, 'r')
+        dict_file_read = dict_file.read()
+        dict_tokens = nltk.word_tokenize(dict_file_read)
+        common_dict = common_dict.intersection(set(dict_tokens))
+        dict_file.close()
+
+
+    print "Len(common_dict) end: ", len(common_dict)
+
+
+    ## write intersection to file
+    common_dict_sorted = sorted(list(common_dict))
     file_common = open('data/dictionaries-common/es_ALL', 'w')
 
-    for item in list(common_dict):
+    for item in common_dict_sorted:
         file_common.write('%s\n' % item)
 
     file_common.close()
 
-    # compute regional dictionaries
-    for d in dicts.fileids():
-        print "Computing regional dictionary for %s...." % d
-        regional_dict = set(dicts.words(d)) - common_dict
-        regional_path = 'data/dictionaries-common/%s_reg' % d
+
+    # compute regional dictionaries and write them to files
+
+    for dict_id in dicts_ids:
+        print "Computing regional dictionary for %s...." % dict_id
+        source_path = dicts_root + dict_id
+        source_file = open(source_path, 'r')
+        source_file_read = source_file.read()
+        source_tokens = nltk.word_tokenize(source_file_read)
+        source_file.close()
+
+        regional_dict = set(source_tokens) - common_dict
+        regional_path = 'data/dictionaries-common/%s_reg' % dict_id
         file_regional = open(regional_path, 'w')
         regional_sorted = sorted(list(regional_dict))
 
@@ -78,3 +106,5 @@ def customize_esp_dicts():
 
         file_regional.close()
 
+
+customize_esp_dicts()
