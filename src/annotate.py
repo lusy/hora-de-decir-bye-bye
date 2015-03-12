@@ -7,7 +7,7 @@ import os
 from os import path
 from nltk.corpus import PlaintextCorpusReader
 
-def annotate(punctuation, tokens_en, tokens_common):
+def annotate(punctuation, tokens_en, tokens_common, reg_dicts_tokens):
     '''
     annotates each word for an article according
     to the dictionary in which it was found
@@ -60,9 +60,15 @@ def annotate(punctuation, tokens_en, tokens_common):
                 annotation.append('PUNKT')
 
             # look up in all the regional dicts
-            # temporarily append unknown
             else:
-                annotation.append('UNK')
+                for rd_id in reg_dicts_tokens:
+                    if token.lower() in reg_dicts_tokens[rd_id]:
+                        annotation.append(rd_id)
+
+
+        # if at the end annotation empty, append unknown
+        if annotation == []:
+            annotation.append('UNK')
 
         annotated_article.append((token,annotation))
 
@@ -103,7 +109,7 @@ def main():
         with codecs.open(path_reg_dict, encoding='utf-8') as reg_dict_file:
             reg_dict = reg_dict_file.read()
             tokens_reg = nltk.word_tokenize(reg_dict)
-            reg_dicts_tokens[dict_id] = tokens_reg
+            reg_dicts_tokens[dict_id] = tokens_reg # maybe prettify key: es_AR_reg -> es_AR
 
     #print reg_dicts_tokens.keys()
     #print reg_dicts_tokens['es_AR_reg']
@@ -115,7 +121,7 @@ def main():
 
 
     # should it get dictionaries as param?
-    #annotate(punctuation, tokens_common, tokens_en)
+    annotate(punctuation, tokens_en, tokens_common, reg_dicts_tokens)
 
     # TODO: annotate all articles
 
