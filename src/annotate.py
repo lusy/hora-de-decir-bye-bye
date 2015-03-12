@@ -3,9 +3,11 @@
 import sys
 import nltk
 import codecs
+import os
+from os import path
 from nltk.corpus import PlaintextCorpusReader
 
-def annotate(punctuation, tokens_common, tokens_en):
+def annotate(punctuation, tokens_en, tokens_common):
     '''
     annotates each word for an article according
     to the dictionary in which it was found
@@ -70,7 +72,7 @@ def annotate(punctuation, tokens_common, tokens_en):
     print tokens_article
     print annotated_article
 
-
+    #TODO: write to file in an appropriate format
 
 
 def main():
@@ -79,14 +81,10 @@ def main():
     '''
     #esp_tokenizer = nltk.data.load('tokenizers/punkt/spanish.pickle')
 
+    # punctuation list; we need it later to annotate punctuation as such
     punctuation = [u'.', u'!', u'?', u':', u',', u';', u'-', u'"', u"'", u'(', u')']
 
     # import dictionaries (as utf-8!) --> should be done here, not importing dictionaries 2000 times
-    with codecs.open('data/dictionaries-common/es_AR_reg', encoding='utf-8') as ar_dict_file:
-        ar_dict = ar_dict_file.read()
-        tokens_ar = nltk.word_tokenize(ar_dict)
-    #print tokens_ar
-
     with codecs.open('data/dictionaries-common/es_ALL', encoding='utf-8') as common_dict_file:
         common_dict = common_dict_file.read()
         tokens_common = nltk.word_tokenize(common_dict)
@@ -95,9 +93,31 @@ def main():
         en_dict = en_dict_file.read()
         tokens_en = nltk.word_tokenize(en_dict)
 
+    # import all the regional dicts
+    reg_dicts_ids = [f for f in os.listdir('data/dictionaries-common/') if path.isfile(path.join('data/dictionaries-common/', f)) and f.endswith('reg')]
+    print reg_dicts_ids
+
+    reg_dicts_tokens = {}
+    for dict_id in reg_dicts_ids:
+        path_reg_dict = 'data/dictionaries-common/%s' % dict_id
+        with codecs.open(path_reg_dict, encoding='utf-8') as reg_dict_file:
+            reg_dict = reg_dict_file.read()
+            tokens_reg = nltk.word_tokenize(reg_dict)
+            reg_dicts_tokens[dict_id] = tokens_reg
+
+    #print reg_dicts_tokens.keys()
+    #print reg_dicts_tokens['es_AR_reg']
+
+    #with codecs.open('data/dictionaries-common/es_AR_reg', encoding='utf-8') as ar_dict_file:
+    #    ar_dict = ar_dict_file.read()
+    #    tokens_ar = nltk.word_tokenize(ar_dict)
+    #print tokens_ar
+
 
     # should it get dictionaries as param?
-    annotate(punctuation, tokens_common, tokens_en)
+    #annotate(punctuation, tokens_common, tokens_en)
+
+    # TODO: annotate all articles
 
     #print tokens[0].lower() in tokens_ar
     #print tokens[0].lower() in tokens_common
