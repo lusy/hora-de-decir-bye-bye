@@ -1,0 +1,18 @@
+* src/
+  ** annotate.py          --> annotates the tokens in the articles
+  ** cleaner.py           --> converts articles and dicts to plain text
+  ** scraper.py           --> downloads articles from siempremujer.com
+  ** utils.py             --> helper functions; build dict with articles' categories;
+                                                compute common/regional dictionaries;
+
+* src/dictionaries/       --> raw version of dictionaries
+
+* src/data/
+  ** class_articles       --> file containing article ids sorted by categories
+  ** articles/            --> articles in html format
+  ** articles-raw/        --> backup of articles/
+  ** articles-plain/      --> plaintext articles
+  ** dictionaries-clean/  --> dictionaries without annotations (simple word lists)
+  ** dictionaries-common/ --> processed dictionaries; common + regional spanish dictionaries computed
+
+
