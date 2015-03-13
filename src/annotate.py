@@ -7,12 +7,13 @@ import os
 from os import path
 from nltk.corpus import PlaintextCorpusReader
 
-def annotate(punctuation, tokens_en, tokens_common, reg_dicts_tokens):
+def annotate(punctuation, ignore_en, tokens_en, tokens_common, reg_dicts_tokens):
     '''
     annotates each word for an article according
     to the dictionary in which it was found
     input: article_id --> tokenized article
     output: csv? format?
+    intermediate representation: [(token,[annotations])]
     annotations:
     EN
     ES_ALL
@@ -22,7 +23,7 @@ def annotate(punctuation, tokens_en, tokens_common, reg_dicts_tokens):
     annotated_article = []
 
     # read articles as utf-8!
-    with codecs.open('test_plain', encoding='utf-8') as article_plain_file:
+    with codecs.open('data/articles-plain/45', encoding='utf-8') as article_plain_file:
         article_plain= article_plain_file.read()
 
         # remove special spanish punctuation characters which are treated
@@ -47,8 +48,11 @@ def annotate(punctuation, tokens_en, tokens_common, reg_dicts_tokens):
         annotation = []
 
         # convert tokens to lower case for lookup
-        # possibly named entities loss but simplest way
-        if token.lower() in tokens_en:
+        # possibly named entities loss but simplest way;
+        # eliminate short words which are far more likely to be
+        # articles, prepositions, etc in Spanish;
+        # eliminate some longer words which are far more likely to be esp
+        if token.lower() in tokens_en and len(token.lower()) > 2 and token.lower() not in ignore_en:
             # add EN to annotation
             annotation.append('EN')
 
@@ -75,8 +79,13 @@ def annotate(punctuation, tokens_en, tokens_common, reg_dicts_tokens):
 
     #print tokens_article[0].lower() in tokens_common
     #print tokens_article[0].lower() in tokens_en
-    print tokens_article
-    print annotated_article
+
+    #print tokens_article
+    #print annotated_article
+
+    for (token,annotation) in annotated_article:
+        if 'EN' in annotation:
+            print (token,annotation)
 
     #TODO: write to file in an appropriate format
 
@@ -89,6 +98,9 @@ def main():
 
     # punctuation list; we need it later to annotate punctuation as such
     punctuation = [u'.', u'!', u'?', u':', u',', u';', u'-', u'"', u"'", u'(', u')']
+
+    # ignore from English dictionary (words that are far more probable to be in esp)
+    ignore_en = [u'para', u'las', u'nos', u'con', u'no', u'o']
 
     # import dictionaries (as utf-8!) --> should be done here, not importing dictionaries 2000 times
     with codecs.open('data/dictionaries-common/es_ALL', encoding='utf-8') as common_dict_file:
@@ -121,7 +133,7 @@ def main():
 
 
     # should it get dictionaries as param?
-    annotate(punctuation, tokens_en, tokens_common, reg_dicts_tokens)
+    annotate(punctuation, ignore_en, tokens_en, tokens_common, reg_dicts_tokens)
 
     # TODO: annotate all articles
 
