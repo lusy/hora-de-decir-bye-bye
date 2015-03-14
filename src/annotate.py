@@ -159,7 +159,9 @@ def annotate(a_path, punctuation, ignore_en, tokens_en, tokens_common, reg_dicts
 
 def main():
     '''
-    import all plaintext articles as a nltk plaintext corpus
+    import dictionaries and tokenize them
+    run annotate() for all articles in data/articles-plain/
+
     '''
     #esp_tokenizer = nltk.data.load('tokenizers/punkt/spanish.pickle')
 
@@ -180,8 +182,8 @@ def main():
         tokens_en = nltk.word_tokenize(en_dict)
 
     # import all the regional dicts
-    reg_dicts_ids = [f for f in os.listdir('data/dictionaries-common/') if path.isfile(path.join('data/dictionaries-common/', f)) and f.endswith('reg')]
-    #print reg_dicts_ids
+    reg_dicts_ids = [f for f in os.listdir('data/dictionaries-common/')
+                    if path.isfile(path.join('data/dictionaries-common/', f)) and f.endswith('reg')]
 
     reg_dicts_tokens = {}
     for dict_id in reg_dicts_ids:
@@ -194,15 +196,7 @@ def main():
     #print reg_dicts_tokens.keys()
     #print reg_dicts_tokens['es_AR_reg']
 
-    #with codecs.open('data/dictionaries-common/es_AR_reg', encoding='utf-8') as ar_dict_file:
-    #    ar_dict = ar_dict_file.read()
-    #    tokens_ar = nltk.word_tokenize(ar_dict)
-    #print tokens_ar
-
-
-    # should it get dictionaries as param?
-
-    # TODO: annotate all articles
+    # annotate all articles
     articles_ids = [f for f in os.listdir('data/articles-plain/') if path.isfile(path.join('data/articles-plain/', f))]
     for a_id in articles_ids:
         print "Annotating article #%s" % a_id
