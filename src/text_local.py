@@ -5,6 +5,10 @@
 #         Edward Loper <edloper@gradient.cis.upenn.edu>
 # URL: <http://www.nltk.org/>
 # For license information, see LICENSE.TXT
+#
+# Modified: by me
+# add return_concordance() to ConcordanceIndex
+
 
 """
 This module brings together a variety of NLTK functionality for
@@ -201,6 +205,9 @@ class ConcordanceIndex(object):
         else:
             print "No matches"
 
+    # Function which returns concordances instead of printing them to stdout
+    # not originally in nltk
+    # fieser hack^^
     def return_concordance(self, word, width=75, lines=25):
         """
         Return a list of concordances for ``word`` with the specified context window.
@@ -364,8 +371,7 @@ class Text(object):
             self._concordance_index = ConcordanceIndex(self.tokens,
                                                        key=lambda s:s.lower())
 
-        #self._concordance_index.print_concordance(word, width, lines)
-        self._concordance_index.return_concordance(word, width, lines)
+        self._concordance_index.print_concordance(word, width, lines)
 
     def collocations(self, num=20, window_size=2):
         """
