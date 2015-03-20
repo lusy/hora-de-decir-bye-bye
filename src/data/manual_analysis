@@ -6,29 +6,29 @@ In which contexts do English tokens appear in the predominantly Spanish text:
 1. Named Entities:
    * products: "Jet Bag" (#11679), "House Premium" (#53564), "Kindle" (#24553, #10619, #55607), "Jin Soon Nail Polish" and "Jin Soon Top Gloss" (#61453), "las Nike Air Zoom Elite 7" (#75529)
      "Maybeline Fit Me Foundation" (#61453), "Maybeline Eye Studio Color Tattoo 24HR Cream Gel Shadow en Too Cool", "Maybeline Baby Lips Lip Balm en Cherry Me" (#61453) --> interesting here, not only the name of the brand but of whole product is in English (Foundation, Nail Polish, Lip Balm + "Color" (color is also part of branding!))
-     "Converse All-Star", "iPod Shuffle" (#57677), "Esmalte Radiant Red" (#52330) (interesting with nail polish: sometimes translated, sometimes not; may be because in the other example "Nail polish" and brand name were part of the product's name?), "Labial Serial Dater" (#52330) (same note as with Esmalte Radiant Red), "Pepsi NEXT" (#55964), "Olay Professional ProX Even Skin Tone" (#57807), "Sombras Coral Reef" (#54453), "Sebamed Clear Face Cleansing Foam" (#69856), "Jose Cuerco Authentic Light MargaritaTM" (#3600), "Jose Cuervo Especial Gold", "triple sec" (#3600), " Yoplait, Cheerios, Lucky Charms, Cinnamon Toast Crunch, Nature Valley, Fiber One, Pillsbury, Totino’s," (#75744), "telefonos iphone y Android" (#21732), "la bebida Mountain Dew" (#77034), "la plancha MINI PRO 1” Ceramic Curling Iron , de Conair" (#316), " Coconut Lime Gift Set  " (#316), " Brookstone Pillows te trae la maravillosa Our n.a.p.® " (#316), "la nueva COMPRESSED BEACH TOWEL" (#316), "Backpack Beach Chair" (#316), "Pocket Rocket Stove " (#316), " el Kodak Solar Charger " (#316), "Face Time: Esta aplicacion forma parte.." (#73397), "ipad [..] iPad mini y iPad touch" (#73397), "Drop Box / We Transfer" (#73397), "Sombras $ 33 Snow Shadow de Shiseido" (#56470), "Quantum of the Seas el primer barco inteligente" (#76554), "Nintendogs and Cats" (#27419), "Esmalte $ 17 Girls Just Want To Have Fun" (#55708), "Power Plate" (#52382)
+     "Converse All-Star" (#57677, 52997), "iPod Shuffle" (#57677), "Esmalte Radiant Red" (#52330) (interesting with nail polish: sometimes translated, sometimes not; may be because in the other example "Nail polish" and brand name were part of the product's name?), "Labial Serial Dater" (#52330) (same note as with Esmalte Radiant Red), "Pepsi NEXT" (#55964), "Olay Professional ProX Even Skin Tone" (#57807), "Sombras Coral Reef" (#54453), "Sebamed Clear Face Cleansing Foam" (#69856), "Jose Cuerco Authentic Light MargaritaTM" (#3600), "Jose Cuervo Especial Gold", "triple sec" (#3600), " Yoplait, Cheerios, Lucky Charms, Cinnamon Toast Crunch, Nature Valley, Fiber One, Pillsbury, Totino’s," (#75744), "telefonos iphone y Android" (#21732), "la bebida Mountain Dew" (#77034), "la plancha MINI PRO 1” Ceramic Curling Iron , de Conair" (#316), " Coconut Lime Gift Set  " (#316), " Brookstone Pillows te trae la maravillosa Our n.a.p.® " (#316), "la nueva COMPRESSED BEACH TOWEL" (#316), "Backpack Beach Chair" (#316), "Pocket Rocket Stove " (#316), " el Kodak Solar Charger " (#316), "Face Time: Esta aplicacion forma parte.." (#73397), "ipad [..] iPad mini y iPad touch" (#73397), "Drop Box / We Transfer" (#73397), "Sombras $ 33 Snow Shadow de Shiseido" (#56470), "Quantum of the Seas el primer barco inteligente" (#76554), "Nintendogs and Cats" (#27419), "Esmalte $ 17 Girls Just Want To Have Fun" (#55708), "Power Plate" (#52382), "Dyson Hot", "Air Multiplier" (#14700), " Sombras $ 59 Fabulous ", "Esmalte $ 8 Where’s my chauffeur ?", "Labial $ 6 Sweet Watermelon" (#55109)
 
      ---> heaps of commercials;
 
-   * journals: "American Journal of Clinical Nutrition" (#27921, #41553), "Journal of Nutrition" (#72639), "The Journal of the American Medical Association"(#75109), "Medicine and Science in Sports and Excercise, la revista oficial del..." (#60977), "New England Journal of Medicine" (#75014), "Archives of General Psychiatry" (#43079), "The Canadian Journal of Human Sexuality" (#71627), "Nutrition Journal" (#65849), "Journal of Evolution and Human Behavior" (#70867)m "Journal of Fluid Mechanics" (#71552)
+   * journals: "American Journal of Clinical Nutrition" (#27921, #41553), "Journal of Nutrition" (#72639), "The Journal of the American Medical Association"(#75109), "Medicine and Science in Sports and Excercise, la revista oficial del..." (#60977), "New England Journal of Medicine" (#75014), "Archives of General Psychiatry" (#43079), "The Canadian Journal of Human Sexuality" (#71627), "Nutrition Journal" (#65849), "Journal of Evolution and Human Behavior" (#70867)m "Journal of Fluid Mechanics" (#71552), "Journal of Sexual Medicine" (#63951)
 
-   * newspapers: "Daily Mail" (#64324, #64721, #66655, #42121), "New York Times Book Review" (#14485), "el diario Fertility and Sterility" (#71629), "The Huffington Post" (#65099), "The New York Times" (#64808, #74204, #78776, #32432, #78457, #52931, #58286), "The Sun" (#72548), "diario de Social Psychological & Personality Science" (#71627), "US Weekly" (#55710) (not sure whether it's a paper or a magazine), "The Washington Post" (#78170, #52931), "Daily Star" (#72864), "The Guardian" (#32432), "Wall Street Journal" (#52931, #75946)
+   * newspapers: "Daily Mail" (#64324, #64721, #66655, #42121), "New York Times Book Review" (#14485), "el diario Fertility and Sterility" (#71629), "The Huffington Post" (#65099), "The New York Times" (#64808, #74204, #78776, #32432, #78457, #52931, #58286), "The Sun" (#72548), "diario de Social Psychological & Personality Science" (#71627, #64193), "US Weekly" (#55710) (not sure whether it's a paper or a magazine), "The Washington Post" (#78170, #52931), "Daily Star" (#72864), "The Guardian" (#32432), "Wall Street Journal" (#52931, #75946, #64193), "New York Post" (#56465)
 
    * magazines: "las revistas Harper's, Esquire y Aperture" (#14485), "la revista Esquire" (#71819), "la revista Self" (#72662), "la revista Archives of Sexual Behavior" (#64721, #65099), "la revista Billboard" (#45006), "Men's Health", "Cosmopolitan", "Mom's Life Today" (#60897), "revista Working Mother" (#45099), "New York Magazine" (#56648), "Vanity Fair" (#71860), "BackPacker Magazine" (#316), "National Geografic" (#74204), "Appetite" (#50549), "JAMA Psychiatry" (#70313), "Fitness Magazine" (#45848)
 
-   * organizations: "The NPD Group" (#27921), "Adventure Cycling Association" (#75254), "Autism Society" (#68583), "RealAge Scientific Advisory Board" (#63209), "Ricky's Revolution" (#63248), "editorial Summit University Press Espanol" (#53465), "Fashion Institute of Technology (FIT)" (#55736), "Sony Music" (#46990, #55173), "Aventura Cosmetic Surgery en la ciudad de Miami" (#68012) --> interesting that the name is both Spanish and English, "la clinica My Wellness Solution" (#72446), "Royal Society de Londres" (#10619), "Gracias al estudio del Environmental Working Group (EWG) de Washington" (#52227), "la Gate Foundation" (#78252), "The Leukimia and Lymphoma Society" (#75529), "Xlibris Corporation" (#43079), "Slow Food" (#24161, #24448),  "Golden Gate University" (#49437), "New York University Child Study Center" (#49437), "The Center for College Affordability and Productivity", "el Bentley University Center For Women and Business" (#73058), "American Heart Association" (#66408), "Hispanic Heritage Foundation" (#78284), "Entertainment Software Association Foundation" (#78284) (is it just me or "association foundation" sounds weird?), "Sleep Disorders Service and Research Center del Rush University Medial Center" (#54438, #73912), "Greater Baltimore Medical Center" (#36454), "Grains Food Foundation" (#73310), "Hass Avocado Board ( HAB )" (#65849), "The Grocery Manufacturers Association" (#64981), "American College of Cardiology" (#50549), "Washington State University" (#66074), "“Camino al bienestar de Walgreens” (Walgreens Way to Well Health Tour with AARP) es una especie de clínica" (#37887), "Basic Health International" (#78493), "la organizacion Save Horizon" (#71000), "Concordia University de Montreal" (#70867), "la clinica Miami Plastic Surgery" (#74851), "Rush Institute for Healthy Ageing en Chicago" (#259), "AIDS Healthcare Foundation" (#40526), "Goodwill" (#21446), "Universidad de Portland State de Oregon" (#378), "Europa Press" (#378), "El museo de la Frick Collection" (#14360)
+   * organizations: "The NPD Group" (#27921), "Adventure Cycling Association" (#75254), "Autism Society" (#68583), "RealAge Scientific Advisory Board" (#63209), "Ricky's Revolution" (#63248), "editorial Summit University Press Espanol" (#53465), "Fashion Institute of Technology (FIT)" (#55736), "Sony Music" (#46990, #55173), "Aventura Cosmetic Surgery en la ciudad de Miami" (#68012) --> interesting that the name is both Spanish and English, "la clinica My Wellness Solution" (#72446, #68849), "Royal Society de Londres" (#10619), "Gracias al estudio del Environmental Working Group (EWG) de Washington" (#52227), "la Gate Foundation" (#78252), "The Leukimia and Lymphoma Society" (#75529), "Xlibris Corporation" (#43079), "Slow Food" (#24161, #24448),  "Golden Gate University" (#49437), "New York University Child Study Center" (#49437), "The Center for College Affordability and Productivity", "el Bentley University Center For Women and Business" (#73058), "American Heart Association" (#66408), "Hispanic Heritage Foundation" (#78284), "Entertainment Software Association Foundation" (#78284) (is it just me or "association foundation" sounds weird?), "Sleep Disorders Service and Research Center del Rush University Medial Center" (#54438, #73912), "Greater Baltimore Medical Center" (#36454), "Grains Food Foundation" (#73310), "Hass Avocado Board ( HAB )" (#65849), "The Grocery Manufacturers Association" (#64981), "American College of Cardiology" (#50549), "Washington State University" (#66074), "“Camino al bienestar de Walgreens” (Walgreens Way to Well Health Tour with AARP) es una especie de clínica" (#37887), "Basic Health International" (#78493), "la organizacion Save Horizon" (#71000), "Concordia University de Montreal" (#70867), "la clinica Miami Plastic Surgery" (#74851, 70066), "Rush Institute for Healthy Ageing en Chicago" (#259), "AIDS Healthcare Foundation" (#40526), "Goodwill" (#21446), "Universidad de Portland State de Oregon" (#378), "Europa Press" (#378), "El museo de la Frick Collection" (#14360), "Public Health and Animal Agriculture de la Humane Society" (#76029), "la FDA ( Food and Drug Administration , en inglés )" (#68849), "La asociación británica Gateway Women" (#77924), "centro de medicina holistica Sun Raven" (#74789)
 
-   * novels/books: "The Girl with the Dragon Tattoo" (#24553), "Fifty Shades of Grey" (#77198, #62081), "Listening Below the Noise" (#183), "WiCi (New York Women in Communications)" (#61508), "Motherhood is the New MBA" (#45099), "Leading Under Pressure" (#43079), "The Heart and Soul of the Next Generation" (#49437), "The Honest Life: Living Naturally and True to You" (#54505), "The Thigh Gap Hack" (#74474), "Energy Medicine", "Inner Simplicity", "The Attitude of Gratitude" (#59484), "Como agua para chocolate ( Like Water for Chocolate )" (interesting here that the original Spanish title is translated to English within the Spanish text) (#8495), "The 40 Rules of Love, de Elif Shafak" (#57033), "Awakening Joy" (#482), "The Dirty Girls Social Club" (#57876), "Salt, Sugar, Fat: How the Food Giants Hooked Us (Sal, azúcar, grasa: Cómo los gigantes productores de alimentos nos engancharon)" (#55373), "Peruvian Power Foods (HCI)" (#63021), " en su libro Una piel más joven en 28 días (Younger Skin in 28 Days). " (#74047), "The Science of Orgasm" (#61671)
+   * novels/books: "The Girl with the Dragon Tattoo" (#24553), "Fifty Shades of Grey" (#77198, #62081), "Listening Below the Noise" (#183), "WiCi (New York Women in Communications)" (#61508), "Motherhood is the New MBA" (#45099), "Leading Under Pressure" (#43079), "The Heart and Soul of the Next Generation" (#49437), "The Honest Life: Living Naturally and True to You" (#54505), "The Thigh Gap Hack" (#74474), "Energy Medicine", "Inner Simplicity", "The Attitude of Gratitude" (#59484), "Como agua para chocolate ( Like Water for Chocolate )" (interesting here that the original Spanish title is translated to English within the Spanish text) (#8495), "The 40 Rules of Love, de Elif Shafak" (#57033), "Awakening Joy" (#482), "The Dirty Girls Social Club" (#57876), "Salt, Sugar, Fat: How the Food Giants Hooked Us (Sal, azúcar, grasa: Cómo los gigantes productores de alimentos nos engancharon)" (#55373), "Peruvian Power Foods (HCI)" (#63021), " en su libro Una piel más joven en 28 días (Younger Skin in 28 Days). " (#74047), "The Science of Orgasm" (#61671), "Skinny Chicks Eat Real Food" (#59975), "Size Matters" (#64193), "Rocking the Life Unexpected" (#77924), "No Kinds: 40 Good Reasons Not To Have Children." (#77924), "Libro And the Mountains Echoed por Khaled Hosseini" (#56227)
 
-   * movies: "Rain Man" (#68583), "Psycho", "Rear Window" (#77184), "Letters to Juliet", "127 Hours", "Sex and the City", "Under the Tuscan Sun", "Eat, Pray, Love", "Into the Wild", "The Carrie Diaries", (#64381 --> is a quiz, I think), "The Walking Dead" (#78542), "The Artist" (#27419), "Sex Tape" (#71819)
+   * movies: "Rain Man" (#68583), "Psycho", "Rear Window" (#77184), "Letters to Juliet", "127 Hours", "Sex and the City", "Under the Tuscan Sun", "Eat, Pray, Love", "Into the Wild", "The Carrie Diaries", (#64381 --> is a quiz, I think), "The Walking Dead" (#78542), "The Artist" (#27419), "Sex Tape" (#71819), "la cinta Fifty Shades of Grey" (#78867), "The postman always rings twice", "Last Tango in Paris", "Shame: Sex with a view", "Monster Ball", "Blue Valentine", "Brokeback Mountain", "Wild Things", "Blue is the Warmest Color" (#78867)
 
-   * tv stuff: "Extra Virgin" (tv programm), "Cooking Channel" (#53564), "American Idol" (#40279, #48365), "America's Next Top Model" (#46372), "BBC News", "CBS News", "Discovery News" (#64721), "Mario Lopez: One on One" (#59553) "el programa de television Saved by the Bell" (#59553), "de la cadena Fox", "el programa Mobbed", "al canal Torrid Fashion" (#69812), "el show Here Comes Honey Boo Boo" (#75566), "el canal FOX Life" (#67189), "show de baile de ABC Dancing with the Stars" (#55964), "el programa The Biggest Loser" (#65637), "NPR News", "ABC News" (#59470, #36454, #40631), "del programa de television The Biggest Loser" (#59302), "el programa Good Morning America" (#59302), "la cadena NBC" (#59302), "Eat to lose, eat to win" (#59302), "la serie de television Master of Sex" (#72401), "Animal Planet" (#27419), "Desperate Housewives" (#57876), "Devious Maids" (#57876), "The King Stays King- Sold out at Madison Square Garden, un documental exclusivo" (#56112)
+   * tv stuff: "Extra Virgin" (tv programm), "Cooking Channel" (#53564), "American Idol" (#40279, #48365), "America's Next Top Model" (#46372), "BBC News", "CBS News", "Discovery News" (#64721), "Mario Lopez: One on One" (#59553) "el programa de television Saved by the Bell" (#59553), "de la cadena Fox", "el programa Mobbed", "al canal Torrid Fashion" (#69812), "el show Here Comes Honey Boo Boo" (#75566), "el canal FOX Life" (#67189), "show de baile de ABC Dancing with the Stars" (#55964), "el programa The Biggest Loser" (#65637), "NPR News", "ABC News" (#59470, #36454, #40631), "del programa de television The Biggest Loser" (#59302), "el programa Good Morning America" (#59302, #56465), "la cadena NBC" (#59302), "Eat to lose, eat to win" (#59302), "la serie de television Master of Sex" (#72401), "Animal Planet" (#27419), "Desperate Housewives" (#57876), "Devious Maids" (#57876), "The King Stays King- Sold out at Madison Square Garden, un documental exclusivo" (#56112), "la serie de la BBC The Fall" (#78867)
 
-   * events: "New York Fashion Week" (#66810, 66689), "el programa de espectaculos Access Hollywood" (#56541), "el show de "Suidy Between Worlds"(Entre Mundos)" --> translation in parent. (#38635), "Mercedes Benz Fashion Week" (#61887), "Miss Teen USA" (#77079), "Nike Women's Half Marathon de San Fransisco" (#75529), "LAMC (Latin Alternative Music Conference)" (#72246), "la exposicion: "Appearances Can Be Deceiving: The Dresses of Frida Kahlo"" (#48474), "American Music Awards (AMA)" (#47832), "seminario Womens' Wear Daily" (#38923) ("womens'" is wrong English theoretically), "campana.. Go Red Por Tu Corazon" (interesting if the name is really bilingual) (#66408), "Nationa Youth Awards", "Los Premios Juveniles (Youth Awards)" (#78284), "Victoria's Secret Fashion Show" (#76507), "Music Awards 2014" (#73586), "Metamorfosis World Tour" (#40009), "Florida Book Awards 2007" (#21440), "MTV Movie Awards" (#71736), "Puppy Bowl VIII" (#27419) ,"Super Bowl" (#27419), "la 136a Westminster Dog Show" (#27419), "programa Cell Phones for Soldiers" Oo (#21446)
+   * events: "New York Fashion Week" (#66810, 66689), "el programa de espectaculos Access Hollywood" (#56541), "el show de "Suidy Between Worlds"(Entre Mundos)" --> translation in parent. (#38635), "Mercedes Benz Fashion Week" (#61887), "Miss Teen USA" (#77079), "Nike Women's Half Marathon de San Fransisco" (#75529), "LAMC (Latin Alternative Music Conference)" (#72246), "la exposicion: "Appearances Can Be Deceiving: The Dresses of Frida Kahlo"" (#48474), "American Music Awards (AMA)" (#47832), "seminario Womens' Wear Daily" (#38923) ("womens'" is wrong English theoretically), "campana.. Go Red Por Tu Corazon" (interesting if the name is really bilingual) (#66408), "Nationa Youth Awards", "Los Premios Juveniles (Youth Awards)" (#78284), "Victoria's Secret Fashion Show" (#76507), "Music Awards 2014" (#73586), "Metamorfosis World Tour" (#40009), "Florida Book Awards 2007" (#21440), "MTV Movie Awards" (#71736), "Puppy Bowl VIII" (#27419) ,"Super Bowl" (#27419), "la 136a Westminster Dog Show" (#27419), "programa Cell Phones for Soldiers" Oo (#21446), " concurso The Voice" (#55710, #57736),
 
- * places: "Little Village" (#55686), "Simi Valley, California" (#45145), "Beyond Salon en San Juan, Puerto Rico" (#71781, #71399, #56687, #78577) (it's a hair salon I think), "New York City Center" (#66941), "City Center" (#66941), "Adriene Arsht Center for the Perfoming Arts en Miami" (#38635), "Off Broadway, Nueva York" (#38635), "Rhode Island" (#32589), "Centro de Ansiedad y Fobia en el White Plain Hospital" (#51274) (again department in Spanish, hospital name in English), "en el Shrine Auditorium de Los Angeles" (#46214), "The Gramercy Theatre ( 127 E . 23rd Street )" (+address!) (#72246), "el Gramercy Theater de Nueva York" (#57234), "en el Mandalay Bay Convention Center de Las Vegas" (#56342), "Aruba Marriott Resort & Stellaris Casino" (#71703), "Miami Beach" (#38549), "Big Ben" (#67131), "Butterfly Studio en Nueva York" (#73300), "director clínico de Morningside Recovery" (#57889), "Beverly Hills, California" (#57876), "Time Square" (#57621), "National Gallery of Art" (#14360)
+ * places: "Little Village" (#55686), "Simi Valley, California" (#45145), "Beyond Salon en San Juan, Puerto Rico" (#71781, #71399, #56687, #78577) (it's a hair salon I think), "New York City Center" (#66941), "City Center" (#66941), "Adriene Arsht Center for the Perfoming Arts en Miami" (#38635), "Off Broadway, Nueva York" (#38635), "Rhode Island" (#32589), "Centro de Ansiedad y Fobia en el White Plain Hospital" (#51274) (again department in Spanish, hospital name in English), "en el Shrine Auditorium de Los Angeles" (#46214), "The Gramercy Theatre ( 127 E . 23rd Street )" (+address!) (#72246), "el Gramercy Theater de Nueva York" (#57234), "en el Mandalay Bay Convention Center de Las Vegas" (#56342), "Aruba Marriott Resort & Stellaris Casino" (#71703), "Miami Beach" (#38549), "Big Ben" (#67131), "Butterfly Studio en Nueva York" (#73300), "director clínico de Morningside Recovery" (#57889), "Beverly Hills, California" (#57876), "Time Square" (#57621), "National Gallery of Art" (#14360), "Palm Beach, Florida" (#59248)
 
-   * music: "su mas reciente trabajo musical Prestige" (#45254), "cancion oficial del Mundial, We are one (Somos uno solo)" (#71272), "Genie in a Bottle" (#45006), "su disco Lotus" (#45006), "su cancion We Found Love" (#42853), "On Demand", "itunes" (#65922), "su cancion Pastures of Plenty/My Land is Your Land" (#61455), "A Band of Bitches" (#63959), "The Definitive Collection", " Cuba Carnival (1956), Night Beat (1957), Dance Mania (1958) y Revolving Bandstand (1960)" (#55173), "Dance Again" (#40631)
+   * music: "su mas reciente trabajo musical Prestige" (#45254), "cancion oficial del Mundial, We are one (Somos uno solo)" (#71272), "Genie in a Bottle" (#45006), "su disco Lotus" (#45006), "su cancion We Found Love" (#42853), "On Demand", "itunes" (#65922), "su cancion Pastures of Plenty/My Land is Your Land" (#61455), "A Band of Bitches" (#63959), "The Definitive Collection", " Cuba Carnival (1956), Night Beat (1957), Dance Mania (1958) y Revolving Bandstand (1960)" (#55173), "Dance Again" (#40631), "The Swon Brothers (Los Hermanos Swon)" (#57736)
 
    * shops/labels: "Top Shop" (#56223, #52330, #54453, #50646, #54615, #53612), "Gap" (#56223), "Obsessive Compulsive"(#56223), "MoMA Design Store" (#27745), "Urban Outfitters" (#52330, #50646), "The Nook Store" (#55607), "Target", "Price Match" (#50511), "Physicians Formula" (#54453), "Lands’ End" (#316), "Matches" (#54615), "smashbox" (#54615), "Home Depot" (#73055)
 
@@ -36,7 +36,7 @@ In which contexts do English tokens appear in the predominantly Spanish text:
 
    * youtube videos: "Mutant Giant Spider Dog", "Football: Winner Stays. ft. Ronaldo, Neymar Jr., Rooney, Ibrahimović, Iniesta & more", "FIRST KISS", ... (#76688)
 
-   * misc: "los premios Drama Desk" (#38635), "La Mayo Clinic" (#61980), "Health Day" (#36338, #24040), "Columbia Health" (#64721), "National Library of Medicine de Estados Unidos (NCB)" (#64721), "La campaña "Drop a Glass Size""(#52376), "con el titulo Chasing the Sun" (#52516), "Kids Incorporated" (#59553), "Digital Vision" (#24446) (photo studio), "Premios Billboard" (#46214), "Vital Signs" (#27147), "The New Republic" (#75014), "Hispanic Nutrition" (#67307), "Diabetic Living Online" (#47074), "Northwestern Natural Life", "National Health Interview" (#4741, #66408), "Mexican Made Easy en Food Network" (#36192), "articulo Why Women Apologize More Than Men: Gender Differences in Thresholds for Perceiving Offensive Behavior" (#72485), "Elite Collection" (#74827), "Seattle Culinary Academy", "Culinary Insitute of America", "Canadian Food and Wine Institute at Niagara College" (#17847), "The Heart Truth" (#66408), "Inspira Award", "Xfinity Series" (#78284), "“Gran Cocina Latina : the food of Latin America”"(#46521), "se le conoce como Geisha Facial o Facial Nightingale Poo"(#75501), "Sperm Facial" (#77034), "Power People" (#73113), "( Pulseras rojas , Red Band Society en inglés . )", "Su adaptación , Red Band Society " (#74379), "The Voice" (#55710), "Slim & Sage" (#50549),"articulo del New York Times titulado Good Lovers Lie" (#78776), "Food Autopsy" (#59302), " Hybrid Scarves, un concepto de hermosas bufandas, especialmente diseñadas para cuando viajes" (fashion bla) (#63609), "campaña Undress Me" (not sure whether event or company, but doesn't really matter) (#72401), "proyectos como Latin Music USA y la serie American Experience" (#61455), "la iniciativa Man Kind"/"la Man Kind Initiative" (#71000), "Lifetime" (#57876), "“Incurable Diseases” Is It a Business ?" (#48903), " MMS (Miracle Mineral Solution) como cura para el autismo." (#48903), "premio Lifetime Achievement de los Grammys" (#55173), "El fondo P & G|Team USA Youth Sports Fund " (#38988), "Iniciativa de Comercio Justo ( Ethical Trade Initiative)" (#71585), "Guiness World Records" (#57621), "Clap for Change" (#70422), "la ley DOMA ( Defense of Marriage Act)" (#58286)
+   * misc: "los premios Drama Desk" (#38635), "La Mayo Clinic" (#61980), "Health Day" (#36338, #24040), "Columbia Health" (#64721), "National Library of Medicine de Estados Unidos (NCB)" (#64721), "La campaña "Drop a Glass Size""(#52376), "con el titulo Chasing the Sun" (#52516), "Kids Incorporated" (#59553), "Digital Vision" (#24446) (photo studio), "Premios Billboard" (#46214), "Vital Signs" (#27147), "The New Republic" (#75014), "Hispanic Nutrition" (#67307, #64662), "Diabetic Living Online" (#47074), "Northwestern Natural Life", "National Health Interview" (#4741, #66408), "Mexican Made Easy en Food Network" (#36192), "articulo Why Women Apologize More Than Men: Gender Differences in Thresholds for Perceiving Offensive Behavior" (#72485), "Elite Collection" (#74827), "Seattle Culinary Academy", "Culinary Insitute of America", "Canadian Food and Wine Institute at Niagara College" (#17847), "The Heart Truth" (#66408), "Inspira Award", "Xfinity Series" (#78284), "“Gran Cocina Latina : the food of Latin America”"(#46521), "se le conoce como Geisha Facial o Facial Nightingale Poo"(#75501), "Sperm Facial" (#77034), "Power People" (#73113), "( Pulseras rojas , Red Band Society en inglés . )", "Su adaptación , Red Band Society " (#74379),  "Slim & Sage" (#50549),"articulo del New York Times titulado Good Lovers Lie" (#78776), "Food Autopsy" (#59302), " Hybrid Scarves, un concepto de hermosas bufandas, especialmente diseñadas para cuando viajes" (fashion bla) (#63609), "campaña Undress Me" (not sure whether event or company, but doesn't really matter) (#72401), "proyectos como Latin Music USA y la serie American Experience" (#61455), "la iniciativa Man Kind"/"la Man Kind Initiative" (#71000), "Lifetime" (#57876), "“Incurable Diseases” Is It a Business ?" (#48903), " MMS (Miracle Mineral Solution) como cura para el autismo." (#48903), "premio Lifetime Achievement de los Grammys" (#55173), "El fondo P & G|Team USA Youth Sports Fund " (#38988), "Iniciativa de Comercio Justo ( Ethical Trade Initiative)" (#71585), "Guiness World Records" (#57621), "Clap for Change" (#70422), "la ley DOMA ( Defense of Marriage Act)" (#58286), "The sexiest man alive 2015" (#78867), "publicaciones de pretigio como Consumer Reports" (#30728)
 
    * cell phone companies: "Straight Talk", "Virgin Mobiles", "Page Plus Cellular", "MetroPCS", "Cricket", "Boost Mobile", "Sprint" (#24446), "Reuters Health" (#43079)
 
@@ -76,6 +76,8 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * striptease (#66775)
    * lap dance (#66775)
    * sex shop (#66775)
+   * sex drive: "interpretan a dos adolescentes con su sex drive por el cielo" (#78867)
+   * sexy: "con una sexy veinteañera" (#78867)
 
 4. To investigate more narrowly
    * "got milk ?" (#27921)
@@ -119,7 +121,7 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * "tomate un break" (#60)
    * "date un time out para procesar esos sentimientos" (#74786)
    * "quiz: ..." (#62626)
-   * "quiz:..." (#64016)
+   * "quiz:..." (#64016, #63148)
    * "bien sea que decidas ser la host" (#62600)
    * "organizar el schedule" (#72246)
    * "el extra bonus para compartir lo que mas disfrutamos" (#72246)
@@ -160,6 +162,13 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * deal: "es probable que encuentres un mejor deal" (#76218)
    * voucher: "pueden ofrecer un descuento o un voucher" (#76218)
    * "Como coach de lifestyle, no podrias decir que.." (#70422)
+   * "darle un bocadito (treat) cada vez que..." (#73505)
+   * "como wall paddleball, pickle ball, .." (#38131) --> sport
+   * "los Credit Unions (cooperativas de ahorro y ...)" (#30728)
+   * "I.M., psicologa y Country Manager de 35 anos.." (#77924) --> profession?
+   * " se define como Generación NoMo (Not Mothers); es decir, no quiere ser madre " (#77924)
+   * "con el nombre de opo squash o long squash" (#59248)
+   * wayfarer: "gafas de sol de Ray-Ban modelo wayfarer" (#52997)
 
 
 6. English discourse markers as part of the Spanish text:
@@ -170,6 +179,7 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * "NOT REALLY" (#73183) (to investigate further)
    * must: "no tardaran en convertirse en un "must" para quienes.. " (#73586)
    * must: "las cremas hidrantes son un must para el cuidado de tu piel" (#65430)
+   * must: "por lo que deben ser otro must a tener en cuenta" (#52997) (here or half translated idioms?)
 
 7. English interjections as part of the Spanish text:
    * "me di cuenta que wow!", "pense wow esto es lo que quiero" (#75609)
@@ -192,6 +202,8 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * half Spanish half English "pop-alternativo" (#72246)
    * shock rock: "en la categoria de shock rock" (#63959)
    * punk: "la moda punk" (#56169) --> interestingly referencing fashion
+   * tour: "El tour Mrs. Carter Show de Beyonce.." (#56465)
+   * country: "cantante de country" (#57736)
 
 10. Food/cooking stuuff
 mostly in Spanish and then in paranthesis the English words
@@ -229,6 +241,8 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
    * nutritional yeast: "toma nutritional yeast y vitamina B12" (#74629)
    * "los sustitutos de comidas (meal replacements)" (#57023)
    * "Los jarabes como el de arce , o maple syrup" (#66866)
+   * "la anchoa y la caballa ( mackerel )" (#75194),
+   * "sirope de maíz de alta fructosa ( high fructose corn syrup )" (#75608)
 
 10a. Diet
     * "la dieta Fast Diet" (named entity as well) (#55960)
@@ -237,13 +251,15 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * light: " Es más recomendable comer un buen alimento con moderación que uno light sin valor nutricional" (#69063)
     * light: "pero son más saludables que las grasas trans (como la margarina), por muy light que sean" (#69063)
     * light: "La mayoría de los alimentos procesados, muchos de ellos light" (#69063)
+    * light, diet: "elegir bebidas light o diet" (#64662)
 
 11. Fashion stuff
     * "un crop top con estampado floral" (#54890) --> clothing
     * "Spring 2014" (#61696)
-    * "trendy para esta primavera" (#68386)
-    * "trendy para este invierno 2015.." (#78257)
-    * "alimentos trendy" (#78170)
+    * trendy: "trendy para esta primavera" (#68386)
+    * trendy: "trendy para este invierno 2015.." (#78257)
+    * trendy: "alimentos trendy" (#78170)
+    * trendy: "Cuáles son los peinados trendy en los días de mucho calor" (#70446)
     * "las ondas naturales o el bob" (#68386) --> hair stuff
     * "El siempre de moda corte bob" (#71781) --> hair stuff
     * "prueba un corte bob asimetrico" (#71781) --> hair stuff
@@ -253,6 +269,7 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * "Maybeline Fit Me Foundation" (#61453), "Maybeline Eye Studio Color Tattoo 24HR Cream Gel Shadow en Too Cool", "Maybeline Baby Lips Lip Balm en Cherry Me" (#61453) --> interesting here, not only the name of the brand but of whole product is in English (Foundation, Nail Polish, Lip Balm + "Color" (color is also part of branding!)) -- > strange colors
     * "Jin Soon Nail Polish in Obsidian" (the color name is in English) (#61453) --> strange colors
     * nude: "un color nude siempre sera apropiado.." (#75394) --> strange colors
+    * nude: "una camiseta y un bolso en beige o nude" (#55109) --> strange colors
     * nude: "tonos nude.." (#73341), "tonos nude propios de la temporada de invierno" (#65092) --> strange colors
     * nude: "sombras nude" (#64370) --> colors
     * coral reef: "Sombras Coral Reef" (#54453) --> strange colors
@@ -264,7 +281,9 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * snow shadow: "Sombras $ 33 Snow Shadow de Shiseido" (#56470)--> strange colors
     * cherry red: "Labial $24 Cherry Red de Bite" --> strange colors
     * orgasm: "Rubor de mejillas $29 Orgasm de NARS" --> strange colors
+    * look: "En este look te presentamos los “imprescindibles”" (#52997)
     * look: "las prendas y complementos del look son basicos que podemos emplear.." (#54890)
+    * look: "la mejor forma de equilibrar el look" (#55109)
     * look: "para que este look esté completo" (#54890)
     * look: "necesitas un cambio de look urgente" (#78335)
     * look: "te harán conseguir el look de La Catrina para ese día" (#62348)
@@ -295,13 +314,14 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * vintage: "los productos vintage originales" (#78849)
     * vintage: "9 articulos vintage que vuelven a estar de moda" (#78849)
     * vintage: "estapados tipo vintage de flor de hibisco y.." (#29593)
+    * vintage: "hay tesoros vintage" (#36786)
     * "skinny jeans": " pantalones tipo skinny es la solución", "los skinny jeans son de las piezas más utiliza", "skinny jeans , esos pantalones entubados" (#36454) --> clothing
     * "animal print" (#59738) --> clothing
     * "vas a recibir cursos en un resort" (#39674)
 
 12. Half translated English idiomatic expressions
     * "vivimos el presente a full" (#75882)
-    * "grasas trans" ("trans fets" in English) (#65504, #62534, #69063, #56794) (does this fit here? or open a diet cathegory?)
+    * "grasas trans" ("trans fets" in English) (#65504, #62534, #69063, #56794, #75608) (does this fit here? or open a diet cathegory?)
     * "jugar footsie" ("to play footsie with sb" -- mit jmd füßeln) (#78122)
     * "la voz en off" (#71538)
     * "casarse y vivir su happily ever after" (#78457)
@@ -317,6 +337,9 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * "como anticipar estos mood swings" (#56527)
     * "baby showers, BBQ y muchos otros eventos" (#73924)
     * green card: ".. la residencia permanente o green card" (#58286)
+    * trick or treat: "celebrar Halloween o a hacer trick or treat por tu barrio" (#75608)
+    * road trip: "que se embarcan en un road trip con.." (#78867)
+    * "lo parecido trata lo pareci- do [ like treats like ] " (74789)
 
 13. Personal descriptions
     * charming: "un hombre carismatico, charming, muy elegante" (#75882)
@@ -326,6 +349,7 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * "la regulacion de la velocidad para quienes hacen uso de grandes volumenes de dato (throttling)" (#24446) -- similar to cooking
     * texting: "limites de datos y texting" (#24446)
     * chat: "la personas que "conoces" en el chat" (#77079), "revisa tus conversaciones de chat con la susodicha" (#72941)
+    * chat: "y se abrira un chat para que puedan comenzar a hablar" (#76100)
     * link: "hay que enviarle el link a la pagina del agente de viajes" (#78125), "deberas hacer un link entre Pinterest y tus cuentas..." (#28581)
     * post: "convirtiendose en el post mas compartido en la red social" (#68162)
     * freelance (not strictly tech, but same semantic field currently): "las opciones de freelance" (#73058)
@@ -342,7 +366,8 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * "cuyos "hackers" se cree que son de origen chino" (#52931)
     * email: "escribirle un email o poner una nota en su maletin" (#63600)
     * email: "es tan facil que te pide solo el email" (#75946)
-    * selfies: "no soy fan de las selfies"
+    * selfies: "no soy fan de las selfies" (#76039)
+    * selfie: "nos enfocamos en sacarnos el mejor selfie" (#72670)
     * Android (#75946) (is really a product name)
     * Android, iOS, Blackberry, Windows Phone (#76309)
     * "Google Maps" (also a product name) (#76309)
@@ -350,8 +375,13 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * streaming: "comenzó a ofrecer su servicio de streaming en Latinoamérica y el Caribe" (#26486)
     * streaming: "combinaría la comodidad de adquirir DVD y Blu-rays a un precio moderado con la capacidad de streaming" (#26486)
     * online: "crear un servicio de video online" (#26486) (seria "en linea" en esp)
+    * online: "tres de los mejores bancos online"
     * clic: "haces clic en la cajita roja de Get logins" ("click" in English) (#23890)
     * get logins: siehe oben (#23890)
+    * likes: "alcanzar este numero de likes" (#72670) (Maybe open social media cathegory)
+    * meme: "compartir el mejor meme" (#72670)
+    * smartphone: "haberte perdido la oportunidad de conocer a alguien fabuloso por estar absorbida por tu smartphone" (#72670)
+    * site: "mantiene activado su perfil en el site" (#76191)
 
 15. Direct quotes:
     * tweet: "Shoppers find ‘sweatshop cries for help’ sewn into Primark clothes" (#71585)
@@ -362,6 +392,7 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * hashtag quotes: " # hourglass # waisttraining # nophotoshopneces " (#75490)
     * "detente y piensa : Yes You Can !" (gym/training context) (#74726)
     * "Yes. You Can!" (#73924) (salud, training)
+    * " recuerda : Yes You Can !" (#75590) --> diet? something with "dulces" ...
     * "lo decia el famoso Dr. House: Everybody lies" (#78776)
     * photo title or comment: "Me and the legendary Oscar DeLaRenta… Rest in peace…You will be missed." (#75365)
     * tweet: "The Gentleman of Fashion you will always be !!! R I P oscarprgirl oscarprgirl #Oscar de la Renta" (#75365)
@@ -369,10 +400,14 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
 
 16. Fitness stuff:
     * "maquillate y ve al gym" (#78125) (da fragt man sich ob die beide Sachen gleichzeitig statt finden sollten..)
-    * "( incluyendo ir al gym )" (#74726)
-    * "despues del workout" (#40649)
+    * gym: "( incluyendo ir al gym )" (#74726)
+    * gym: "ir al gym y demas" (#76191)
+    * workout: "despues del workout" (#40649)
+    * workout: "trasladar tu workout del gimnasio" (#39025)
+    * workout: "hasta el final de tu workout" (#39025)
     * "Curl de bíceps con un galón de leche" (whatever that means) (#74726)
     * "Twist de toalla" (#74726)
+    * "Running or yoga" (#65619)
 
 16a. Real sport:
     * surfing: "Cómo aprender surfing", "escuelas para aprender surfing", " para comenzar a practicar surfing", " más difícil y “exclusiva” sea el surfing" (#39674)
@@ -386,6 +421,14 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * "dry shampoo" (#73300, 65223)
     * frizz: "para evitar impases debido al Frizz y a la humedad" what is frizz?->kräuseln (#316) (hair stuff)
     * frizz: "para controlar el frizz del cabello" (#65223) -> hair stuff
+    * frizz: "cabellos demasiado secos y con mucho frizz" (#70446)
+    * frizz: "cabellos lisos y libres de frizz" (#70446)
+    * "Crema de manos Shea butter Hand Cream" (#66351)
+    * "Crema reafirmarte para el cuello DNA Neck Firming" (#66351)
+    * "Protector solar Sun Care Sunscreen Broad Spectrum SPF 30 " (#66351)
+    * peeling: "los beneficios de los peeling quimicos" (#75980)
+    * Gel hidratante Mary Kay Sun Care / After Sun Replenishing Care (#56227) --> also product name
+    * "Toallitas refrescantes Shobha Rosewater Freshening Cloths" (#56227) --> also a product name
 
 17a. Wellness/body stuff:
     * "esponja exfoliadora (loofah)" (#58329)
@@ -407,4 +450,4 @@ Earlier Intents on Explanation
 * the rest of the named entities: even less expected to be translated?
 
 --------------------------------
-Current Line Analysis: 8482
+Current Line Analysis: 10419
