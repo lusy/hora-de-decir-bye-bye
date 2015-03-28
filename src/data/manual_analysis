@@ -19,6 +19,7 @@ In which contexts do English tokens appear in the predominantly Spanish text:
 
    * organizations: "The NPD Group" (#27921), "Adventure Cycling Association" (#75254), "Autism Society" (#68583), "RealAge Scientific Advisory Board" (#63209), "Ricky's Revolution" (#63248), "editorial Summit University Press Espanol" (#53465), "Fashion Institute of Technology (FIT)" (#55736), "Sony Music" (#46990, #55173, #55001), "Aventura Cosmetic Surgery en la ciudad de Miami" (#68012) --> interesting that the name is both Spanish and English, "la clinica My Wellness Solution" (#72446, #68849, #73679), "Royal Society de Londres" (#10619), "Gracias al estudio del Environmental Working Group (EWG) de Washington" (#52227), "la Gate Foundation" (#78252), "The Leukimia and Lymphoma Society" (#75529), "Xlibris Corporation" (#43079), "Slow Food" (#24161, #24448),  "Golden Gate University" (#49437), "New York University Child Study Center" (#49437), "The Center for College Affordability and Productivity", "el Bentley University Center For Women and Business" (#73058), "American Heart Association" (#66408, #53675), "Hispanic Heritage Foundation" (#78284), "Entertainment Software Association Foundation" (#78284) (is it just me or "association foundation" sounds weird?), "Sleep Disorders Service and Research Center del Rush University Medial Center" (#54438, #73912), "Greater Baltimore Medical Center" (#36454), "Grains Food Foundation" (#73310), "Hass Avocado Board ( HAB )" (#65849), "The Grocery Manufacturers Association" (#64981), "American College of Cardiology" (#50549), "Washington State University" (#66074, #67092), "“Camino al bienestar de Walgreens” (Walgreens Way to Well Health Tour with AARP) es una especie de clínica" (#37887), "Basic Health International" (#78493), "la organizacion Save Horizon" (#71000), "Concordia University de Montreal" (#70867), "la clinica Miami Plastic Surgery" (#74851, #70066,#71054, #67630), "Rush Institute for Healthy Ageing en Chicago" (#259), "AIDS Healthcare Foundation" (#40526), "Goodwill" (#21446), "Universidad de Portland State de Oregon" (#378), "Europa Press" (#378), "El museo de la Frick Collection" (#14360), "Public Health and Animal Agriculture de la Humane Society" (#76029), "la FDA ( Food and Drug Administration , en inglés )" (#68849), "La asociación británica Gateway Women" (#77924), "centro de medicina holistica Sun Raven" (#74789), "Feeding America" (#39756), "National Dairy Council " (#69698), " Health Partnerships " (#69698), "el Pew Research Center" (#21266), "Mexican Cultural Institute en Washington" (68002), "Fashion Institute of Technology (FIT)" (#69461), "New York University" (#50404), "The Reader Organisation" (#68275), "La America Academy of Pediatrics" (#41530), "International Board on Books for Young" (#19356), "la Clínica Plenitud Wellness Center" (#64939), "Rethink Breast Cancer  ( Repiensa el Cáncer de Seno )" (#72259), "Consejo Nacional de La Raza ( National Council of La Raza )" (#44080), "Spire Liverpool Hospital" (#71430), "Renaissance Charter School" (#12899), "National Healthy Marriage Resource Center" (#71779), "Salvation Army" (#69340), "Food and Agricultural Organization" (#59341), "Hospital Lenox Hill de Nueva York " (#48850), " American Society of Hypertension " (#48850), "Association for Psychological Science" (#77959), "Planned Parenthood Federation of America" (#50975)
      " Kinsey Institute for Research in Sex" (#77897), "American Diabetes Association" (#75801), "Hospital Lenox Hill de NY" (#31701), "Bank United Center de la Universidad de Miami " (#52980), "El National Honey Board" (#41584), "Spotlights Beauty" (#68768), "Human Performance Institute" (#74918), "Clear Clinica" (#66000), "National Center for Health Statistics" (#56777), "Kansas State University" (#77064)
+    "director del Instituto del Corazon del New York Presbyterian/Columbia Medical Center" (#63209) --> interestingly "Instituto del Corazon" appears in Spanish and "Medical Center" in English (there are more organizations with similr language choice)
 
    * novels/books: "The Girl with the Dragon Tattoo" (#24553), "Fifty Shades of Grey" (#77198, #62081, #40043), "Listening Below the Noise" (#183), "WiCi (New York Women in Communications)" (#61508), "Motherhood is the New MBA" (#45099), "Leading Under Pressure" (#43079), "The Heart and Soul of the Next Generation" (#49437), "The Honest Life: Living Naturally and True to You" (#54505), "The Thigh Gap Hack" (#74474), "Energy Medicine", "Inner Simplicity", "The Attitude of Gratitude" (#59484), "Como agua para chocolate ( Like Water for Chocolate )" (interesting here that the original Spanish title is translated to English within the Spanish text) (#8495), "The 40 Rules of Love, de Elif Shafak" (#57033), "Awakening Joy" (#482), "The Dirty Girls Social Club" (#57876), "Salt, Sugar, Fat: How the Food Giants Hooked Us (Sal, azúcar, grasa: Cómo los gigantes productores de alimentos nos engancharon)" (#55373), "Peruvian Power Foods (HCI)" (#63021), " en su libro Una piel más joven en 28 días (Younger Skin in 28 Days). " (#74047), "The Science of Orgasm" (#61671), "Skinny Chicks Eat Real Food" (#59975), "Size Matters" (#64193), "Rocking the Life Unexpected" (#77924), "No Kinds: 40 Good Reasons Not To Have Children." (#77924), "Libro And the Mountains Echoed por Khaled Hosseini" (#56227), "Breaking the Chains of Obesity ( Rompamos las cadenas de la obesidad)" (#58308), " Hot Sex : Over 200 Things You Can Try Tonight" (#64566), "The Second Time We Met" (#29412),"The Plan" (#59033), " Find Your Inner Red Shoes" (#67949), "The Book of Love" (#73447), "Chasing the Sun" (#55597)
 
@@ -27,7 +28,7 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * tv stuff: "Extra Virgin" (tv programm), "Cooking Channel" (#53564), "American Idol" (#40279, #48365), "America's Next Top Model" (#46372), "BBC News", "CBS News", "Discovery News" (#64721), "Mario Lopez: One on One" (#59553) "el programa de television Saved by the Bell" (#59553), "de la cadena Fox", "el programa Mobbed", "al canal Torrid Fashion" (#69812), "el show Here Comes Honey Boo Boo" (#75566), "el canal FOX Life" (#67189, #66896, #68833), "show de baile de ABC Dancing with the Stars" (#55964), "el programa The Biggest Loser" (#65637), "NPR News", "ABC News" (#59470, #36454, #40631, #71800), "del programa de television The Biggest Loser" (#59302), "el programa Good Morning America" (#59302, #56465), "la cadena NBC" (#59302), "Eat to lose, eat to win" (#59302), "la serie de television Master of Sex" (#72401), "Animal Planet" (#27419), "Desperate Housewives" (#57876, #75842), "Devious Maids" (#57876), "The King Stays King- Sold out at Madison Square Garden, un documental exclusivo" (#56112), "la serie de la BBC The Fall" (#78867), " serie de televisión Mad Men" (#13807), "las series Playboy y PanAm" (#13807), "House o Law and Order" (#75842), "Breaking Bad" (#73625), "Nu Point of View: The Emerging Latino Filmmakers" (#67962), "Ultra Television Mexico" (#18762), "Watch Over Me", "MyNetworkTV" (#57385), "MTV Unplugged" (#44421), "The X Factor" (#63912), "CNN" (#57712)
 
    * events: "New York Fashion Week" (#66810, 66689, #74167), "el programa de espectaculos Access Hollywood" (#56541), "el show de "Suidy Between Worlds"(Entre Mundos)" --> translation in parent. (#38635), "Mercedes Benz Fashion Week" (#61887), "Miss Teen USA" (#77079), "Nike Women's Half Marathon de San Fransisco" (#75529), "LAMC (Latin Alternative Music Conference)" (#72246), "la exposicion: "Appearances Can Be Deceiving: The Dresses of Frida Kahlo"" (#48474), "American Music Awards (AMA)" (#47832), "seminario Womens' Wear Daily" (#38923) ("womens'" is wrong English theoretically), "campana.. Go Red Por Tu Corazon" (interesting if the name is really bilingual) (#66408), "Nationa Youth Awards", "Los Premios Juveniles (Youth Awards)" (#78284), "Victoria's Secret Fashion Show" (#76507), "Music Awards 2014" (#73586), "Metamorfosis World Tour" (#40009), "Florida Book Awards 2007" (#21440), "MTV Movie Awards" (#71736), "Puppy Bowl VIII" (#27419) ,"Super Bowl" (#27419, #48116, #78415, #69114, #53593), "la 136a Westminster Dog Show" (#27419), "programa Cell Phones for Soldiers" Oo (#21446), " concurso The Voice" (#55710, #57736, #44209), "Hit Parade" (#54371), "The Future of Fashion" (#69461), "The Future of Fashion" (#55736), "Like A Girl: una campaña social sobre prejuicios contra la mujer" (#71632), "iphone Photography Awards" (#60851), "Hispanic Heritage Awards" (#74405), "el festival South by Southwest" (#67962), "World Music Award" (#56371), "el premio Grammy" (#56371), "Music Festival 2012 "Live"" (#37894), "Loud and Uplugged Tour" (#55597),
-   "El Cat Video Festival" (#74656), "Metamorfosis World Tour" (#38729), "Ted Ex Austin Women" (#68118), "National Hispanic Heritage Month" (#61721), "Latin Alternative Music Conference (LAMC)" (#71723)
+   "El Cat Video Festival" (#74656), "Metamorfosis World Tour" (#38729), "Ted Ex Austin Women" (#68118), "National Hispanic Heritage Month" (#61721), "Latin Alternative Music Conference (LAMC)" (#71723), "la Campaña Nacional del Bigote de Leche “got milk?®” " (#27921)
 
  * places: "Little Village" (#55686), "Simi Valley, California" (#45145), "Beyond Salon en San Juan, Puerto Rico" (#71781, #71399, #56687, #78577, #64845, #60345) (it's a hair salon I think), "New York City Center" (#66941), "City Center" (#66941), "Adriene Arsht Center for the Perfoming Arts en Miami" (#38635), "Off Broadway, Nueva York" (#38635), "Rhode Island" (#32589), "Centro de Ansiedad y Fobia en el White Plain Hospital" (#51274) (again department in Spanish, hospital name in English), "en el Shrine Auditorium de Los Angeles" (#46214), "The Gramercy Theatre ( 127 E . 23rd Street )" (+address!) (#72246), "el Gramercy Theater de Nueva York" (#57234), "en el Mandalay Bay Convention Center de Las Vegas" (#56342), "Aruba Marriott Resort & Stellaris Casino" (#71703), "Miami Beach" (#38549), "Big Ben" (#67131), "Butterfly Studio en Nueva York" (#73300), "director clínico de Morningside Recovery" (#57889), "Beverly Hills, California" (#57876), "Times Square" (#57621, #76731), "National Gallery of Art" (#14360), "Palm Beach, Florida" (#59248), "salón de belleza Evelyn Cuts and Color" (#60710), "Corn Island" (#43285), "Family Circle Cup Arena" (#37894), "Grand Central Station" (#67237), " The Arena At Gwinnett Center " (#55597), " Sacramento Community Theater " (#55597), "Verizon Theatre en Grand Prairie" (#55597), "Walt Disney World" (#71615), "Staples Center de Los Angeles" (#48693), "Greek Theater de Los Angeles" (#55001), "Mandalay Bay Center" (#47692), "el Dolby Theater en Hollywood" (#62488),"el Copacabana Palace" (#71389), "Central Park" (#71723)
 
@@ -41,7 +42,7 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * youtube videos: "Mutant Giant Spider Dog", "Football: Winner Stays. ft. Ronaldo, Neymar Jr., Rooney, Ibrahimović, Iniesta & more", "FIRST KISS", ... (#76688)
 
    * misc: "los premios Drama Desk" (#38635), "La Mayo Clinic" (#61980), "Health Day" (#36338, #24040, #12903), "Columbia Health" (#64721), "National Library of Medicine de Estados Unidos (NCB)" (#64721), "La campaña "Drop a Glass Size""(#52376), "con el titulo Chasing the Sun" (#52516), "Kids Incorporated" (#59553), "Digital Vision" (#24446) (photo studio), "Premios Billboard" (#46214, #55886, #5298, #52980, #62488), "Vital Signs" (#27147), "The New Republic" (#75014), "Hispanic Nutrition" (#67307, #64662), "Diabetic Living Online" (#47074), "Northwestern Natural Life", "National Health Interview" (#4741, #66408), "Mexican Made Easy en Food Network" (#36192), "articulo Why Women Apologize More Than Men: Gender Differences in Thresholds for Perceiving Offensive Behavior" (#72485), "Elite Collection" (#74827), "Seattle Culinary Academy", "Culinary Insitute of America", "Canadian Food and Wine Institute at Niagara College" (#17847), "The Heart Truth" (#66408), "Inspira Award", "Xfinity Series" (#78284), "“Gran Cocina Latina : the food of Latin America”"(#46521), "se le conoce como Geisha Facial o Facial Nightingale Poo"(#75501), "Sperm Facial" (#77034), "Power People" (#73113), "( Pulseras rojas , Red Band Society en inglés . )", "Su adaptación , Red Band Society " (#74379),  "Slim & Sage" (#50549),"articulo del New York Times titulado Good Lovers Lie" (#78776), "Food Autopsy" (#59302), " Hybrid Scarves, un concepto de hermosas bufandas, especialmente diseñadas para cuando viajes" (fashion bla) (#63609), "campaña Undress Me" (not sure whether event or company, but doesn't really matter) (#72401), "proyectos como Latin Music USA y la serie American Experience" (#61455), "la iniciativa Man Kind"/"la Man Kind Initiative" (#71000), "Lifetime" (#57876), "“Incurable Diseases” Is It a Business ?" (#48903), " MMS (Miracle Mineral Solution) como cura para el autismo." (#48903), "premio Lifetime Achievement de los Grammys" (#55173), "El fondo P & G|Team USA Youth Sports Fund " (#38988), "Iniciativa de Comercio Justo ( Ethical Trade Initiative)" (#71585), "Guiness World Records" (#57621, #55001), "Clap for Change" (#70422), "la ley DOMA ( Defense of Marriage Act)" (#58286), "The sexiest man alive 2015" (#78867), "publicaciones de pretigio como Consumer Reports" (#30728), "programa Dancing with the Stars" (#59119), "el portal de USA Today" (#66800), "Déficit de Atención Sexual ( Sexual Attention Deficit Disorder)" (#78255), "el premio Best Use of Color" (#69461), "Inside Man" (#40072), "THRIVING , por su título en inglés" (#63456), "Fly Wheel" (#75258), "Soul Cycle" (#75258), "Tri Market", "MexGrocer" (#16787), "River Walk de San Antonio en Texas" (#60483), "eScience Commons" (#66187), "“Reto Fitness y Energía de Miel Pura”" (#28434), " Delectable , Hello Vino , The Wine Ratings Guide y The Wine Coach " (#62981), "The Thumbs Up Wine Finder" (#62981), "Trader Joe’s" (#62981), "Bank United Center de la Universidad de Miami" (#55886), "Virginia Tech" (#59033), "The Onion News Network " (#18762), "Red Shoe Movement" (#67949), "Death Match" (#68628), " Thriller Award 2007 " (#20691), "la programacion Billboard" (#54251), "en el programa I love Jenni (Yo quiero a Jenni)" (#54251), "el proyecto R .E .A .D . ( Refugee Enrichment And Development )" (#73133), "Wavebreak Media" (#48850), "Magic Lens" (#35657), "Yomaira Dominican Hair Stylist en Miami" (#73140), "premios Verizon Latino Business Series’ Entrepreneur of the Year" (#65680)
-   "Return on Influence" (69114), "West Side Stories" (#22911), "Latin Lover Lite " (#64945), "Entertainment Tonight" (#57017), "Project Paz" (#68047) (combi of English and Spanish), "Best Western International" (#64580), "proyecto artístico A Beautiful Body " (#58256), "las diferentes campañas de Got Milk" (#56187), "Save Our Bones" (#56187), "First and Most Popular International Artist" (#55001) (cathegory of Guinness World Records), "China Award" (#55001), "Bad Date Rescue", "7 Minute Workout Challenge" (#71426) (apps?), "Finance for Dummies" (app) (#71426),"Google Translate" (#71426), "Pew Internet", "American Life Project" (#39729), "Cloud Gate" (#47751), "Impossible Conversations" (#35073), "Annual Summary of Vital Statistics: 2010-2011" (#56777), "PTSD ( post traumatic stress disorder )" (#78074), "el programa Working Dogs for Conservation" (#78074), "servicios como Monster y BranchOut" (#47611), "State Farm" (#73732), "Pew Hispanic Center" (#42620)
+   "Return on Influence" (69114), "West Side Stories" (#22911), "Latin Lover Lite " (#64945), "Entertainment Tonight" (#57017), "Project Paz" (#68047) (combi of English and Spanish), "Best Western International" (#64580), "proyecto artístico A Beautiful Body " (#58256), "las diferentes campañas de Got Milk" (#56187), "Save Our Bones" (#56187), "First and Most Popular International Artist" (#55001) (cathegory of Guinness World Records), "China Award" (#55001), "Bad Date Rescue", "7 Minute Workout Challenge" (#71426) (apps?), "Finance for Dummies" (app) (#71426),"Google Translate" (#71426), "Pew Internet", "American Life Project" (#39729), "Cloud Gate" (#47751), "Impossible Conversations" (#35073), "Annual Summary of Vital Statistics: 2010-2011" (#56777), "PTSD ( post traumatic stress disorder )" (#78074), "el programa Working Dogs for Conservation" (#78074), "servicios como Monster y BranchOut" (#47611), "State Farm" (#73732), "Pew Hispanic Center" (#42620), "no son ni Supermán ni Batichica." (Superman in Spanish^^) (#53307)
 
    * cell phone companies: "Straight Talk", "Virgin Mobiles", "Page Plus Cellular", "MetroPCS", "Cricket", "Boost Mobile", "Sprint" (#24446), "Reuters Health" (#43079)
 
@@ -51,36 +52,39 @@ In which contexts do English tokens appear in the predominantly Spanish text:
 
 2. English vocab which has more or less entered Spanish (presumably):
    * unisex: "este propósito es unisex y está hecho de piel" (#68047)
-   * "piercing", (#24553)
-   * "party" (#75254)
+   * "piercing", (#24553) (from English, not accepted by RAE)
+   * "party" (#75254) (from English)
    * "series romanticas" (#61799)
-   * "serie American Experience" (#61455) (where does "serie" come from?)
+   * "serie American Experience" (#61455) (where does "serie" come from? latin... can't really say it's from English..)
    * "las series de Harry Potter" (#32432)
-   * "show" (#38635) (possibly more often, seems to be officially part of the spanish dictionary as well)
-   * shock: "evitar el shock" (#53307) (the Spanish word is "choque", but "shock" appears in pons.eu as well)
+   * "show" (#38635) (possibly more often, seems to be officially part of the spanish dictionary as well; comes from English)
+   * shock: "evitar el shock" (#53307) (the Spanish word is "choque", but "shock" appears in pons.eu as well; anglicismo, no aceptada por RAE)
    * shock: "nos ha dejado todos en shock" (#75365)
    * shock: "quizas la terapia de shock sea lo mejor para ti" (half translated idiom/fix phrase?) (#55157)
    * shock: "Gato haciendo yoga y otros que te dejarán en shock (Video)" (#74656)
-   * "una blazer roja" (#52330) (does blazer come from English originally? it is part of the Spanish dict though)
+   * "una blazer roja" (#52330) (does blazer come from English originally? it is part of the Spanish dict though; originally English: ""bright-colored jacket," 1880, British university slang, from blaze (n.1), in reference to the red flannel jackets " http://www.etymonline.com/)
    * blazer: "una blazer más colorida", "Blazer $ 140 de muse" (#56470)
    * blazer: " con la elegancia del negro de la blazer " (#54205)
    * blazer: "zapatos de tacón negros y una blazer con cremallera en el mismo color" (#52759)
-   * shorts: "queta y shorts para primavera" (#54205)
-   * fitness: "reúne meditación oriental y fitness occidental" (#247)
+   * shorts: "queta y shorts para primavera" (#54205) (from English)
+   * fitness: "reúne meditación oriental y fitness occidental" (#247) ("1570s, "state or quality of being suitable,"")
    * fitness: "especialista en fitness y nutrición" (#73303)
    * fitness: "experta en fitness" (#60526) (here or fitness cathegory?)
    * fitness: "entrenadora de fitness" (#75490)(here or fitness cathegory?)
    * fitness: "esta esbelta guru de fitness" (#58308)(here or fitness cathegory?)
    * fitness: "a lograr tus metas de fitness" (#28434) (fitness cathegory?)
-   * camping: "estufa de camping" (#316)
-   * folklore: "las tradiciones y el foklore de este pueblo" (#62055) (origin of folklore?)
-   * club: "club de striptease" (#66775)
-   * bar: "en un bar en New York" (#78457) (origin of bar?)
-   * fan: "no soy fan de las o " (#76039)
+   * camping: "estufa de camping" (#316) (anglicismo)
+   * folklore: "las tradiciones y el foklore de este pueblo" (#62055) (origin of folklore? coined by a british antique dealer in 1846)
+   * club: "club de striptease" (#66775) (English origin)
+   * bar: "en un bar en New York" (#78457) (origin of bar? Latin; but nevertheless in that sense it would come from English)
+   * fan: "no soy fan de las o " (#76039) (English origin/ Latin "fanaticus")
    * fan: "soy una gran fan" (#56079)
    * fans: "Martin y a sus fans" (#41806)
-   * alien: " arlequín , Catrina , avatar , alien , bruja sexy , calavera" (#63038)
-   * spray: "un suero suavizador en spray" (#72553)
+   * alien: " arlequín , Catrina , avatar , alien , bruja sexy , calavera" (#63038) ("alien" comes from latin..)
+   * spray: "un suero suavizador en spray" (#72553) (English origin)
+   * picnic: "planea un picnic en la playa" (#77463) (origin of picnic? Originally French; used in English since ca. 1800; widely spread in the Spanish of Mexico; not accepted by RAE)
+   * picnic: "o acudiendo a un picnic" (#55313)
+   * picnic: " obras de teatro o bien de un picnic" (#75894)
 
 3. "One night stand"/sex stuff (#72933)
    * "one night stand"
@@ -90,8 +94,6 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * "pole dance": " Escuchaste hablar del pole dance ?" (#66436, #78432)
    * pole dance: "o mujeres haciendo pole dance" (#76085)
    * "pijama sexy" (#77993) ("pijama" is officially a Spanish word)
-   * "tiene sex appeal y te llama la atencion" (#78736)
-   * "te llena con un sex appeal" (#78736)
    * "como uno de los sex symbols" (#55964) (note that both "sex" and "symbols" are the English words)
    * "petting" : "Como toda práctica sexual , el petting cuenta con diversas técnicas..." , " deriva del verbo en inglés to pet ( acariciar , mimar o consentir)"(#77812)
    * striptease (#66775, 62680)
@@ -101,6 +103,8 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * sex appeal: "Las 5 claves del sex appeal" (#61317)
    * sex appeal: "el auténtico sex-appeal no se basa únicamente en ciertas cualidades externas" (#61317)
    * sex appeal: "elevar tu nivel de sex-appeal" (#61317)
+   * sex appeal: "tiene sex appeal y te llama la atencion" (#78736)
+   * sex appeal: "te llena con un sex appeal" (#78736)
    * sexy: " arlequín , Catrina , avatar , alien , bruja sexy , calavera" (#63038)
    * sexy: "diablita sexy , esqueleto , gatita sexy " (#63038)
    * sexy: "con una sexy veinteañera" (#78867)
@@ -162,6 +166,7 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * swinger: "no son exclusivas de swingers" (#76085)
 
    --> personal descriptions, covert (or not so covert) advertising, "personal tips"
+   --> why? lifestyle? coolness?
 
 3a Dating
    * dating: "el dating app mas hot del momento" (#75797)
@@ -170,31 +175,12 @@ In which contexts do English tokens appear in the predominantly Spanish text:
    * (serial) dater: "las llaman serial daters" (77458)
    * (serial) dater: "describen a los serial daters como personas inseguras " (#77458)
    * dates: " en cualquier sitio de dates que escojas " (#75797) ("dating site" in Spanish --> duplicate with tech?)
+   * baby: " Ponle un nombre afectivo y díselo con cariño: papi, baby, lindo, gordito, etc. " (#78122)
 
-4. To investigate more narrowly
-   * "got milk ?" (#27921)
-   * "spinning" (#75254)
-   * spinning: "Acabo de hacer dos clases de spinning" (#44313)
-   * spinning: "Lo inscribes a tu clase de spinning" (#70122)
-   * spinning: "es mucho mejor tener los zapatos de spinning" (#75258)
-   * "black licorice" (#63209)
-   * "director del Instituto del Corazon del New York Presbyterian/Columbia Medical Center" (#63209) --> interestingly "Instituto del Corazon" appears in Spanish and "Medical Center" in English
-   * "sindrome del double check" (#72633)
-   * "heirloom" (#65784)
-   * heriloom: "la calabaza heirloom", "las semillas heirloom son aquellas que han llegado hasta", "cantidad de calabazas heirloom sabrosas", "lo mismo que pasa con el tomate heirloom", " pero siempre que sea heirloom será rica para cocinar " (#45698) (a sort of vegetables?)
-   * "the sky's the limit! (el cielo es el limite)" (#442)
-   * "business card" (#71146)
-   * "por seniority" (#53307)
-   * Power People: "características de las mujeres que son Power People" (#76770)
+4. Misc: one English word without category at the moment
+   * delivery: "la pizza y el chico que hace el delivery" (#54246)
 
 5. Not sure how to classify
-   * delivery: "la pizza y el chico que hace el delivery" (#54246)
-   * picnic: "planea un picnic en la playa" (#77463) (origin of picnic?)
-   * picnic: "o acudiendo a un picnic" (#55313)
-   * picnic: " obras de teatro o bien de un picnic" (#75894)
-   * "tofu" (#53564, #74629, #21877, #31701)
-   * "baby" (#53990), "..y diselo con carino: papi, baby.." (#78122)
-   * "espinacas tiernas (baby)" (#54045)
    * "Fly Wheel", "Soul Cycle" (#75254) --> products, organizations.. ?
    * "Wheat Belly" (#72639)
    * "Wax" (#69708)
@@ -395,7 +381,13 @@ In which contexts do English tokens appear in the predominantly Spanish text:
 mostly in Spanish and then in paranthesis the English words
 presumption: people living in the US would know (specific) foods better by there English name;
 e.g. if the food is not very popular in their country of origin; (couldn't say that for baking soda probably though^^)
+   * heirloom: "Me encanta porque es económica, incluso la podemos conseguir orgánica, heirloom " (#65784) (the use doesn't really make sense for me. may be lifestyle... something like a synonym for organic?)
+   * heriloom: "la calabaza heirloom", "las semillas heirloom son aquellas que han llegado hasta", "cantidad de calabazas heirloom sabrosas", "lo mismo que pasa con el tomate heirloom", " pero siempre que sea heirloom será rica para cocinar " (#45698) (a sort of vegetables?)
+   * gluten free: "prefieres alimentos gluten-free," (#65784)
+   * baby: "4 tazas de espinacas tiernas (baby) limpias" (#54045)
+   * baby: "y todos los “bebés”… baby carrots, baby remolachas, baby greens, baby arúgula. " (#53990),
    * water lemon: "“parchita amarilla” y en Hawái , water lemon " (#59251)
+   * black licorice: "en relación con el caramelo de regaliz (black licorice)" (#63209)
    * popcorn: "prepara el popcorn que a continuación te presentamos" (#74656)
    * sandwich: "Hazle un makeover a tu sándwich" (#14580) (entered in Spanish)
    * sandwich: "los tradicionales sándwiches de peanut butter con mermelada o jalea" (#5626)
@@ -623,6 +615,7 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * go shopping: "homres tampoco les gusta ir de shopping" (#76434) (hereor fashion?)
     * tote bag: " un bolso tote " (#55990) (or fashion?)
     * "Living la fiesta "loca"" (#76731) (not an English expression, but a pun with Ricky Martin's song?/with the Spanish "la vida loca"?)
+    * seniority: "damos por sentado que como por seniority, papá y mamá deben guiarnos y enseñarnos y resolvernos la vida." (#53307) (English: "according to seniority"?)
 
 12a. English Idiomatic expressions / collocations
     * "son verdaderas decision makers" (#45099)
@@ -638,6 +631,10 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * road trip: "que se embarcan en un road trip con.." (#78867)
     * "lo parecido trata lo pareci- do [ like treats like ] " (74789)
     * "Behind the scenes :" (#57446)
+    * double check: "sindrome del double check" (#72633)
+    * "como dice la frase en inglés, que the sky's the limit! (el cielo es el limite)" (#442)
+    * "business card": " te muestra su business card " (#71146) (in Spanish: "tarjeta comercial"; not sure why English collocation chosen)
+    * Power People: "características de las mujeres que son Power People" (#76770)
 
 13. Personal descriptions
     * charming: "un hombre carismatico, charming, muy elegante" (#75882)
@@ -933,6 +930,10 @@ e.g. if the food is not very popular in their country of origin; (couldn't say t
     * song: "durante la temporada de fiestas ( Let it snow , let it snow , let it snow ! )" (#76731)
 
 16. Fitness stuff:
+    * "spinning" (#75254) ("SPINNING® [trademarked group training on stationary fitness bikes]")
+    * spinning: "Acabo de hacer dos clases de spinning" (#44313)
+    * spinning: "Lo inscribes a tu clase de spinning" (#70122)
+    * spinning: "es mucho mejor tener los zapatos de spinning" (#75258)
     * "maquillate y ve al gym" (#78125) (da fragt man sich ob die beide Sachen gleichzeitig statt finden sollten..)
     * love handles: "no logras rebajar esos rollitos ( love handles ) alrededor de la cintura )" (#67630) (or diet?)
     * gym: "por salir corriendo para el gym" (#71779)
