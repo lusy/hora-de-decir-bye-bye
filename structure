@@ -4,6 +4,8 @@
   ** scraper.py           --> downloads articles from siempremujer.com
   ** utils.py             --> helper functions; build dict with articles' categories;
                                                 compute common/regional dictionaries;
+  ** text_local.py        --> modified version of nltk's Texts module which adds
+                                      return_concordances() to ConcordanceIndex;
 
 * src/dictionaries/       --> raw version of dictionaries
 
